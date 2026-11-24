@@ -1,0 +1,60 @@
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
+
+.opsdesk {
+  box-sizing: border-box;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 48px 24px;
+  text-align: left;
+}
+
+.opsdesk-header {
+  margin-bottom: 40px;
+}
+
+.opsdesk-header h1 {
+  font-size: 48px;
+  color: #818cf8;
+  margin: 0 0 12px;
+}
+
+.opsdesk-header p {
+  font-size: 18px;
+  color: #94a3b8;
+  margin: 0;
+}
+
+.welcome-card {
+  box-sizing: border-box;
+  padding: 32px;
+  border: 1px solid #334155;
+  border-radius: 16px;
+  background: #1e293b;
+}
+
+.welcome-card h2 {
+  font-size: 26px;
+  color: #f8fafc;
+  margin: 0 0 16px;
+}
+
+.welcome-card p {
+  line-height: 1.7;
+  color: #cbd5e1;
+  max-width: 650px;
+}
+
+.coming-soon {
+  display: inline-block;
+  margin-top: 24px;
+  padding: 10px 16px;
+  border-radius: 8px;
+  background: #312e81;
+  color: #c7d2fe;
+  font-size: 14px;
+  font-weight: 600;
+}
